@@ -1,2 +1,2 @@
 # Havana-Maroon
-Data analysis. Cuantas veces un candidato dice su nombre en Twitter.
+Repositorio de datos para Vicdata
